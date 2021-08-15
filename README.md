@@ -1,7 +1,7 @@
 <div align="center">
     <p>Learn · Create · Master</p>
     <h1>Simple ML Iris Flower prediction model Scikit-learn dataset 👀</h1>
-    <p>Another project I initially did for fun in 2020. Putting it up on GitHub to share and if possible have some pass time, over the weekend collaborative work done on it. What was this project initially intended to do? Learn how to build a simple prediction model using <a href="https://scikit-learn.org/stable/index.html">Scikit-learn</a> and the Iris Flower dataset.</p>
+    <p>This is a simple project I initially did for fun in 2020. Putting it up on GitHub to share and if possible have some pass time, over the weekend collaborative work done on it. What was this project initially intended to do? Learn how to build a simple prediction model using <a href="https://scikit-learn.org/stable/index.html">Scikit-learn</a> and the Iris Flower dataset.</p>
     <img src='https://forthebadge.com/images/badges/made-with-python.svg' />
 </div>
 
